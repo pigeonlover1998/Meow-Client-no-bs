@@ -1,3 +1,5 @@
+a fork of meowclient without shit like rce and pointless (atm) auth
+
 # Meow Client is...
 * No GUI,
 * Myau Vibe,
